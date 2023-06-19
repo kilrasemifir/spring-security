@@ -1,0 +1,12 @@
+security:
+  secret: lkjhglskdjghlskjdhmsldkhfmsldkhfmsldkhfmsldkhfmslkdhfmslkdfhmlskd
+  expiration: 86400000
+
+server:
+  port: 9000
+
+spring:
+  security:
+    user:
+      name: admin
+      password: admin
